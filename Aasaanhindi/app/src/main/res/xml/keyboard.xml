@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    app:keyHeight="5%p"
+    app:keyWidth="12.5%p"
+    app:horizontalGap="0.4%p"
+    app:verticalGap="0.4%p"
+    >
+    <Row>
+        <Key
+            app:codes="0x0905"
+            app:keyEdgeFlags="left"
+            app:keyLabel="अ" />
+        <Key
+            app:codes="0x0906"
+            app:keyLabel="आ" />
+        <Key
+            app:codes="0x0907"
+            app:keyLabel="इ" />
+        <Key
+            app:codes="0x0908"
+            app:keyLabel="ई" />
+        <Key
+            app:codes="0x0909"
+            app:keyLabel="उ" />
+        <Key
+            app:codes="0x090A"
+            app:keyLabel="ऊ" />
+        <Key
+            app:codes="0x090F"
+            app:keyLabel="ए" />
+        <Key
+            app:codes="0x0910"
+            app:keyLabel="ऐ" />
+        <Key
+            app:codes="0x0913"
+            app:keyLabel="ओ" />
+        <Key
+            app:codes="0x0914"
+            app:keyLabel="औ" />
+    </Row>
+    <Row>
+        <Key
+            app:codes="0x0902"
+            app:keyEdgeFlags="left"
+            app:keyLabel="ं"
+            />
+        <Key
+            app:codes="0x0915"
+            app:keyLabel="क"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress"/>
+        <Key
+            app:codes="0x0916"
+            app:keyLabel="ख"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0917"
+            app:keyLabel="ग"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress"
+            />
+        <Key
+            app:codes="0x0918"
+            app:keyLabel="घ"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x091A"
+            app:keyLabel="च"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x091B"
+            app:keyLabel="छ"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x091C"
+            app:keyLabel="ज"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x091D"
+            app:keyLabel="झ"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x090B"
+            app:keyLabel="ऋ" />
+    </Row>
+    <Row>
+        <Key
+            app:codes="0x0903"
+            app:keyEdgeFlags="left"
+            app:keyLabel="ः" />
+        <Key
+            app:codes="0x091F"
+            app:keyLabel="ट"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0920"
+            app:keyLabel="ठ"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0921"
+            app:keyLabel="ड"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0922"
+            app:keyLabel="ढ"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0923"
+            app:keyLabel="ण"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0924"
+            app:keyLabel="त"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0925"
+            app:keyLabel="थ"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0926"
+            app:keyLabel="द"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="33"
+            app:keyLabel="!" />
+    </Row>
+    <Row>
+        <Key
+            app:codes="0x0901"
+            app:keyLabel="ँ" />
+        <Key
+            app:codes="0x0927"
+            app:keyLabel="ध"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0928"
+            app:keyLabel="न"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x092A"
+            app:keyLabel="प"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x092B"
+            app:keyLabel="फ"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x092C"
+            app:keyLabel="ब"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x092D"
+            app:keyLabel="भ"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x092E"
+            app:keyLabel="म"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x092F"
+            app:keyLabel="य"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="63"
+            app:keyLabel="@string/question" />
+    </Row>
+    <Row>
+        <Key
+            app:codes="-2"
+            app:keyLabel="1/3" />
+        <Key
+            app:codes="0x0930"
+            app:keyLabel="र"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0932"
+            app:keyLabel="ल"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0935"
+            app:keyLabel="व"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0936"
+            app:keyLabel="श"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0937"
+            app:keyLabel="ष"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0938"
+            app:keyLabel="स"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="0x0939"
+            app:keyLabel="ह"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:keyOutputText="क्ष"
+            app:keyLabel="क्ष"
+            app:popupCharacters="123456789012"
+            app:popupKeyboard="@xml/popuponlongpress" />
+        <Key
+            app:codes="-5"
+            app:keyLabel="⌫"
+            app:isRepeatable="true"/>
+    </Row>
+    <Row>
+        <Key
+            app:codes="-7"
+            app:keyLabel="@string/symbol" />
+        <Key
+            app:codes="44"
+            app:keyLabel="," />
+        <Key
+            app:codes="32"
+            app:keyLabel=" "
+            />
+        <Key
+            app:codes="0x0964"
+            app:keyLabel="।" />
+        <Key
+            app:codes="10"
+            app:keyLabel="↵" />
+
+    </Row>
+</Keyboard>

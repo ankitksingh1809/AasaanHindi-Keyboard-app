@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PopUpKeyboard xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:horizontalGap1 = "0px"
+    app:verticalGap1 = "0px"
+    >
+
+    <Row
+        app:innerRadiusOfRow1="10%p"
+        app:outerRadiusOfRow1="25%p"
+        >
+        <Key
+            app:codes1="50"
+            app:keyLabel1="2" />
+        <Key
+            app:codes1="51"
+            app:keyLabel1="3" />
+        <Key
+            app:codes1="52"
+            app:keyLabel1="4" />
+        <Key
+            app:codes1="53"
+            app:keyLabel1="5" />
+        <Key
+            app:codes1="54"
+            app:keyLabel1="6" />
+        <Key
+            app:codes1="55"
+            app:keyLabel1="7" />
+    </Row>
+    <Row
+        app:innerRadiusOfRow1="25%p"
+        app:outerRadiusOfRow1="40%p"
+        >
+        <Key
+            app:codes1="-5"
+            app:keyLabel1="/?123" />
+        <Key
+            app:codes1="57"
+            app:keyLabel1="9" />
+        <Key
+            app:codes1="48"
+            app:keyLabel1="0" />
+        <Key
+            app:codes1="49"
+            app:keyLabel1="1" />
+        <Key
+            app:codes1="0x0915"
+            app:keyLabel1="क" />
+        <Key
+            app:codes1="0x0916"
+            app:keyLabel1="ख" />
+    </Row>
+</PopUpKeyboard>
+
+<!--    app:innerRadius1 = "10%p"-->
+<!--    app:outerRadius1 = "40%p"-->

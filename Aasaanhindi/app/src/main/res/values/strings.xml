@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Aasaanhindi Keyboard</string>
+    <string name="fast_input_label">abc</string>
+    <string name="popupcharacters">abcdefghijkl</string>
+    <string name="question">\?</string>
+    <string name="symbol">\?123</string>
+
+    <string name="butn1">  क्लिक करें और सूची में से आसानहिंदी कीबोर्ड को सक्षम करें। (1/2)</string>
+    <string name="butn2">  क्लिक करें और सूची में से आसानहिंदी कीबोर्ड का चयन करें। (2/2)</string>
+    <string name="txt1">  आसान और तेज़ हिंदी टाइपिंग का आनंद लें। </string>
+    <!-- Title for Latin keyboard  -->
+    <string name="ime_name">Sample Soft Keyboard</string>
+
+    <!-- Symbols that are commonly considered word separators in this language -->
+    <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;&gt;_+=|&quot;</string>
+
+    <!-- Labels on soft keys -->
+    <string name="label_go_key">Go</string>
+    <string name="label_next_key">Next</string>
+    <string name="label_send_key">Send</string>
+
+    <!-- Labels for subtype -->
+    <string name="label_subtype_generic">हिन्दी</string>
+    <string name="label_subtype_en_GB">Hindi (IN)</string>
+
+    <!-- Titles for ImePreference -->
+    <string name="settings_name">Sample Soft Keyboard Settings</string>
+    <string name="language_selection_title">Input languages</string>
+    <string name="select_language">Select input languages</string>
+    <string name="general_category">General</string>
+    <string name="subtype_generic">हिन्दी (भारत)</string>
+    <string name="alphabet"><![CDATA[=/<]]></string>
+</resources>

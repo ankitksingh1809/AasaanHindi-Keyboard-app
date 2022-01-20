@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/*
+**
+** Copyright 2008, The Android Open Source Project
+**
+** Licensed under the Apache License, Version 2.0 (the "License");
+** you may not use this file except in compliance with the License.
+** You may obtain a copy of the License at
+**
+**     http://www.apache.org/licenses/LICENSE-2.0
+**
+** Unless required by applicable law or agreed to in writing, software
+** distributed under the License is distributed on an "AS IS" BASIS,
+** WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+** See the License for the specific language governing permissions and
+** limitations under the License.
+*/
+-->
+
+<Keyboard xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:keyHeight="7.25%p"
+    app:keyWidth="12.5%p"
+    app:horizontalGap="0.4%p"
+    app:verticalGap="0.4%p"
+    >
+
+    <Row>
+        <Key app:codes="126" app:keyLabel="~" app:keyEdgeFlags="left"/>
+        <Key app:codes="177" app:keyLabel="±"/>
+        <Key app:codes="215" app:keyLabel="×"/>
+        <Key app:codes="247" app:keyLabel="÷"/>
+        <Key app:codes="8226" app:keyLabel="•"/>
+        <Key app:codes="176" app:keyLabel="°"/>
+        <Key app:codes="96" app:keyLabel="`"/>
+        <Key app:codes="180" app:keyLabel="´"/>
+        <Key app:codes="123" app:keyLabel="{"/>
+        <Key app:codes="125" app:keyLabel="}" app:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key app:codes="169" app:keyLabel="©" app:keyEdgeFlags="left"/>
+        <Key app:codes="0x093D" app:keyLabel="ऽ"/>
+        <Key app:codes="36" app:keyLabel="$"/>
+        <Key app:codes="94" app:keyLabel="^"/>
+        <Key app:codes="174" app:keyLabel="®"/>
+        <Key app:codes="0x0965" app:keyLabel="॥"/>
+        <Key app:codes="0x0950" app:keyLabel="ॐ"/>
+        <Key app:codes="61" app:keyLabel="="/>
+        <Key app:codes="91" app:keyLabel="["/>
+        <Key app:codes="93" app:keyLabel="]" app:keyEdgeFlags="right"/>
+    </Row>
+
+    <Row>
+        <Key app:codes="-2"
+            app:keyLabel="@string/alphabet" app:keyEdgeFlags="left"/>
+        <Key app:codes="161" app:keyLabel="¡" />
+        <Key app:codes="60" app:keyLabel="&lt;"/>
+        <Key app:codes="62" app:keyLabel="&gt;"/>
+        <Key app:codes="162" app:keyLabel="¢"/>
+        <Key app:codes="124" app:keyLabel="|"/>
+        <Key app:codes="92" app:keyLabel="\\" />
+        <Key app:codes="191" app:keyLabel="¿"/>
+        <Key app:codes="-5" app:keyLabel="⌫" app:keyEdgeFlags="right"
+            app:isRepeatable="true"/>
+    </Row>
+
+    <Row app:rowEdgeFlags="bottom">
+        <Key app:codes="-7" app:keyLabel="कखग"/>
+
+        <Key
+            app:codes="44"
+            app:keyLabel="," />
+        <Key app:codes="32"
+            app:keyLabel = " "
+            />
+        <Key app:codes="46" app:keyLabel="."/>
+        <Key app:codes="10" app:keyIcon="@drawable/sym_keyboard_return"
+            app:keyEdgeFlags="right"
+            />
+    </Row>
+</Keyboard>
