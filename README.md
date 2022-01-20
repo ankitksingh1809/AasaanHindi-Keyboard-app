@@ -2,10 +2,10 @@
 An easy to use Hindi keyboard Android app.
 
 Easy and fast Hindi typing.
--> Vowels(Swar) can be easily added to Consonants(Vyanjan). 
--> Just press the Consonant key and slide your finger to respective Vowel.
--> Can use the keyboard for any app.
--> All basic functionality available as a Hindi keyboard.
+1. Vowels(Swar) can be easily added to Consonants(Vyanjan).
+2. Just press the Consonant key and slide your finger to respective Vowel.
+3. Can use the keyboard for any app.
+4. All basic functionality available as a Hindi keyboard.
 
 
 
