@@ -8,7 +8,7 @@ Easy and fast Hindi typing.
 4. All basic functionality available as a Hindi keyboard.
 
 # Issues:
-Doesn't work well in landscape mode.
+Doesn't work well in landscape mode, which can be improved easily.
 
 
 https://user-images.githubusercontent.com/72537746/150326006-4f637f86-b6b5-4586-a31b-37edea83d0bc.mov
